@@ -1,0 +1,32 @@
+# keshi – magnolia
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+You're so beautiful
+Beautiful, beau-beau-beautiful
+Beautiful
+You're so
+Beautiful, beautiful
+Beau-beau-beautiful
+Beautiful
+You're so
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+You're so beautiful
+Beautiful, beau-beau-beautiful
+Beautiful
+You're so
+Beautiful, beautiful
+Beau-beau-beautiful
+Beautiful
+You're so
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+```
