@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "magnolia",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-16T14:16:11.836662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Steel Magnolia (featuring Barron Ricks)",
+      "artist": "Cypress Hill feat. Barron Ricks",
+      "has_synced": false,
+      "path": "select/01_Steel_Magnolia_(featuring_Barron_Ricks)_Cypress_Hill_feat._Barron_Ricks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Steel Magnolia (feat. Barron Ricks)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/02_Steel_Magnolia_(feat._Barron_Ricks)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/03_Magnolia_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hold On Magnolia",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": false,
+      "path": "select/04_Hold_On_Magnolia_Magnolia_Electric_Co..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "David Banner feat. Cee-Lo Green & Raheem DeVaughn",
+      "has_synced": true,
+      "path": "select/05_Magnolia_David_Banner_feat._Cee-Lo_Green_&_Raheem_DeVaughn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sugar Magnolia - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "has_synced": true,
+      "path": "select/06_Sugar_Magnolia_-_2013_Remaster_Grateful_Dead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sugar Magnolia",
+      "artist": "Grateful Dead",
+      "has_synced": true,
+      "path": "select/07_Sugar_Magnolia_Grateful_Dead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Metal Magnolia",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/08_Metal_Magnolia_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/09_Magnolia_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/10_Magnolia_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Tom Petty & the Heartbreakers",
+      "has_synced": false,
+      "path": "select/11_Magnolia_Tom_Petty_&_the_Heartbreakers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "$uicideBoy$ feat. KirbLaGoop",
+      "has_synced": true,
+      "path": "select/12_Magnolia_$uicideBoy$_feat._KirbLaGoop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magnolia (Feat. KirbLaGoop)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/13_Magnolia_(Feat._KirbLaGoop)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold On Magnolia",
+      "artist": "Songs: Ohia",
+      "has_synced": true,
+      "path": "select/14_Hold_On_Magnolia_Songs__Ohia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/15_Magnolia_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/16_Magnolia_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "POCO",
+      "has_synced": true,
+      "path": "select/17_Magnolia_POCO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "Lucinda Williams",
+      "has_synced": false,
+      "path": "select/18_Magnolia_Lucinda_Williams.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Magnolia",
+      "artist": "J.J. Cale",
+      "has_synced": true,
+      "path": "select/19_Magnolia_J.J._Cale.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magnolia",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_Magnolia_keshi.txt"
+    }
+  ]
+}
